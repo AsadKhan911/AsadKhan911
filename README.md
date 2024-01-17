@@ -1,3 +1,4 @@
+![logo](https://github.com/AsadKhan911/AsadKhan911/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Asad Khan</h1>
 <h3 align="center">A dynamic frontend developer infusing passion into pixels.</h3>
 
