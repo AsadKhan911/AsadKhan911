@@ -1,5 +1,5 @@
 ![logo](https://github.com/AsadKhan911/AsadKhan911/blob/main/banner.jpeg)
-<h1 align="center">Hi 👋, I'm Asad Khan</h1>
+<h1 align="center">HELLO 👋, CODERS</h1>
 <h3 align="center">A dynamic frontend developer infusing passion into pixels.</h3>
 
 <img align="right" alt="CODING" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
