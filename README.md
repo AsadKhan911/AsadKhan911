@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS , JavaScript**
   
-- 👨‍💻 All of my projects are available here 📱👆 💻👇
+- 👨‍💻 All of my projects are available here 👇
 
 - 💬 Ask me about **Html , CSS , JavaScript**
 
