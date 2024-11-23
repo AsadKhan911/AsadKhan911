@@ -8,7 +8,7 @@
   
 - 👨‍💻 All of my projects are available here 👇
 
-- 💬 Ask me about **Html , CSS , JavaScript**
+- 💬 Ask me about **React , Node , Express , MongoDB , React Native**
 
 - 📫 How to reach me 👉 **asadlinkinpark9@gmail.com**
 
