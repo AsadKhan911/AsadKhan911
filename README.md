@@ -1,4 +1,4 @@
-![logo](https://github.com/AsadKhan911/AsadKhan911/blob/main/banner.jpeg)
+![logo](https://github.com/AsadKhan911/AsadKhan911/blob/main/1739559791496.jpg)
 <h1 align="center">HELLO 👋, CODERS</h1>
 <h3 align="center">A dynamic frontend developer infusing passion into pixels.</h3>
 
