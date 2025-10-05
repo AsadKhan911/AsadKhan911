@@ -5,7 +5,8 @@
 
 <img align="right" alt="CODING" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
-- 🌱 💻 I build **high-performance, responsive web and mobile applications**, optimizing UX and performance while integrating cutting-edge tools like Socket.IO, AI features, and cloud services.  
+- 🌱 💻 I build **high-performance, responsive web and mobile applications**, optimizing UX and performance while integrating cutting-edge tools like Socket.IO, AI features, and cloud services.
+  
 - ⚡ Passionate about **performance optimization, responsive design, and smooth UX**  
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Redux, Socket.IO, REST APIs, Firebase, Stripe, AI integration**  
 - 📫 Reach me at: **[asadlinkinpark9@gmail.com](mailto:asadlinkinpark9@gmail.com)**  
