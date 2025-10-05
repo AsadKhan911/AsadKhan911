@@ -5,12 +5,15 @@
 
 <img align="right" alt="CODING" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
-💻 I build high-performance, responsive web and mobile applications, integrating modern tools like Socket.IO, AI features, and cloud services.
+- 💻 I build high-performance, responsive web and mobile applications, integrating modern tools like Socket.IO, AI features, and cloud services.
 
-⚡ I focus on optimizing performance, enhancing user experience, and crafting smooth, user-friendly interfaces.
-- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Redux, Socket.IO, REST APIs, Firebase, Stripe, AI integration**  
-- 📫 Reach me at: **[asadlinkinpark9@gmail.com](mailto:asadlinkinpark9@gmail.com)**  
-- 😆 Fun fact: Meme Maestro  
+- ⚡ I focus on optimizing performance, enhancing user experience, and crafting smooth, user-friendly interfaces.
+
+- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, Redux, Socket.IO, REST APIs, Firebase, Stripe, AI integration**
+
+- 📫 Reach me at: **[asadlinkinpark9@gmail.com](mailto:asadlinkinpark9@gmail.com)**
+
+- 😆 Fun fact: Meme Maestro 
 
 ---
 
